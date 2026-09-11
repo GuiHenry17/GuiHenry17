@@ -20,14 +20,12 @@
 
 ## 🧑‍💻 Sobre mim
 
-```yaml
-nome:      Guilherme Henrique Santos Pereira
-formação:  Tecnologia em Sistemas para Internet — UTFPR (2026–2028)
-anterior:  Técnico em Informática — IFMS (concluído 2025)
-interesses: Engenharia de Software · Desenvolvimento Web · IA aplicada
-idiomas:   Português (nativo) · Inglês (avançado/fluente)
-status:    Aberto a oportunidades de estágio 🚀
-```
+- 🎓 Cursando **Tecnologia em Sistemas para Internet** na UTFPR — Toledo, PR
+- 🏫 Técnico em Informática pelo IFMS — concluído em 2025
+- 💻 Desenvolvendo projetos web e mobile desde os 15 anos
+- 🤖 Interesse em **Engenharia de Software** e **IA aplicada ao desenvolvimento**
+- 🌎 Inglês avançado / fluente
+- 🚀 Aberto a oportunidades de estágio em Tecnologia
 
 ---
 
@@ -35,34 +33,11 @@ status:    Aberto a oportunidades de estágio 🚀
 
 <div align="center">
 
-**Front-end**
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&perline=6)](https://skillicons.dev)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,sqlite,prisma&perline=6)](https://skillicons.dev)
 
-**Back-end**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Banco de Dados**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,expo,git,github&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -76,10 +51,7 @@ status:    Aberto a oportunidades de estágio 🚀
       <h3>🍽️ Sistema de Reserva de Mesas</h3>
       <p>Aplicação web full stack para gerenciamento de mesas e reservas, com autenticação de usuários, controle de acesso por perfil e CRUD completo.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,prisma,sqlite" height="28"/>
       </p>
       <a href="https://github.com/GuiHenry17/vmesas-reserva">📂 Repositório</a> &nbsp;|&nbsp;
       <a href="https://vmesas-reserva.vercel.app/">🌐 Demo ao vivo</a>
@@ -88,9 +60,7 @@ status:    Aberto a oportunidades de estágio 🚀
       <h3>⚽ FUTGRIFE</h3>
       <p>Aplicação web com integração entre front-end e back-end, operações CRUD e banco de dados relacional. Projeto em desenvolvimento ativo.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://skillicons.dev/icons?i=js,nodejs,postgresql" height="28"/>
       </p>
       <a href="https://github.com/GuiHenry17/FUTGRIFE">📂 Repositório</a>
     </td>
@@ -100,6 +70,13 @@ status:    Aberto a oportunidades de estágio 🚀
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiHenry17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiHenry17&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800"/>
+
+</div>
 
 <div align="center">
 
